@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "trie.h": "c",
+        "wordlist.h": "c",
+        "cpalindromer.h": "c"
+    }
+}
